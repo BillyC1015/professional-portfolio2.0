@@ -1,7 +1,10 @@
+import Nav from "./Nav";
+
 export default function Header(){
     return(
-        <>
-        <p>hi</p>
-        </>
+        <header className="header">
+      <h1>William Cody</h1>
+      <Nav/>
+    </header>
     )
 }
