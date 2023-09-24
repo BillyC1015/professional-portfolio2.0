@@ -1,4 +1,4 @@
-import Project from "./components/Project.jsx";
+import Project from "../components/Project.jsx";
 
 function Portfolio() {
     let projects=[
