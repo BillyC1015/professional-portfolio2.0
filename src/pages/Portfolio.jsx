@@ -3,24 +3,24 @@ import Project from "../components/Project.jsx";
 function Portfolio() {
     let projects=[
         {
-            name: "Project 1", 
-            description: "describe here",
-            github: "github url here",
-            url: "url to live site here",
+            name: "Park Brew", 
+            description: "An app where users can find a list of breweries and national parks within a certain area.",
+            github: "https://github.com/nolannaphys/park-brew",
+            url: "https://nolannaphys.github.io/park-brew/",
             image: "path to image here"
         },
         {
-            name: "Project 2", 
-            description: "describe here",
+            name: "Critter Tracker", 
+            description: "Sort of a real-world Pokedex, users can upload images of animals they see in the wild and they load onto a map",
             github: "github url here",
-            url: "url to live site here",
+            url: "https://critter-tracker-p2-d4b8f730eb59.herokuapp.com/",
             image: "path to image here"
         },
         {
-            name: "Project 3", 
-            description: "describe here",
-            github: "github url here",
-            url: "url to live site here",
+            name: "Movie Vault", 
+            description: "A database of movies that users can search through and save ones they want to watch later",
+            github: "https://github.com/nolannaphys/movie-vault",
+            url: "https://movie-vault-a6d86baeac1b.herokuapp.com/",
             image: "path to image here"
         },
     ]
