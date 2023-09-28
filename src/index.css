@@ -21,7 +21,7 @@ main{
 }
 
 .about{
-  background-color: blueviolet;
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,6 +29,6 @@ main{
 }
 
 .profile-pic img{
-  width: 500px;
+  width: 350px;
 }
 
