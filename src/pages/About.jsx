@@ -5,7 +5,7 @@ export default function About(){
         <div className="about">
         <h1>About</h1>
     
-        <h4>I am a recent graduate of the University of Pennsylvania's coding bootcamp, aiming to transfer from sales focused roles to a more software development and web design oriented position. I am looking to put my new skills to the test and further develop them plus utilize the skills that I already bring to the table. With this recent certification along with a degree from Temple University and a background in sales roles, I intend to add value to a new company and grow my career in coding. </h4>
+        <h4>Primed to apply a winning mindset and transferrable skillset to the growth of a top-tier organization in Frontend Developer capacity. Capable of creating high-quality web applications via co-ordination with development team. Familiar with frontend frameworks. Skilled in overseeing projects within strict time frame and budget. Talent for quickly learning new information, procedures, and technologies. Strong leadership skills, with the capacity to steer and empower multiple cross-functional teams for increasing workflow in a fast-paced environment. Demonstrated exceptional communication and presentation skills; committed to cultivating and strengthening robust relations with clients and stakeholders. </h4>
 
         <div className="profile-pic">
         <img src={profilePic} alt="me sitting under a tree in the desert"/></div>
