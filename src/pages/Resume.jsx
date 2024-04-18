@@ -1,4 +1,4 @@
-import resume from "../assets/my-resume"
+import resume from "../assets/my-resume.pdf"
 
 
 function Resume() {

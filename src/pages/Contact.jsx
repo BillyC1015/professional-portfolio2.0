@@ -15,16 +15,19 @@ const ButtonMailto = ({ mailto, label }) => {
     );
 };
 
-export default ButtonMailto;
+
 
 export default function Contact(){
     return(
         <>
        <p>Mechanicsburg, PA</p>
-       <ButtonMailto label="Write me an E-Mail" mailto="mailto:no-reply@example.com" />
-            <p>Phone: 717-557-2662</p>
-            <p>Linkedin: https://www.linkedin.com/in/williamcody15/</p>
-            <p>Github: https://github.com/BillyC1015</p>
+       <ButtonMailto label="Write me an E-Mail" mailto="mailto:william.cody1015@gmail.com" />
+
+            
+            
+            <p><Link to= "https://www.linkedin.com/in/williamcody15/">LinkedIn</Link> </p>
+
+            <p><Link to= "https://github.com/BillyC1015">Github</Link> </p>
        
         </>
     )
