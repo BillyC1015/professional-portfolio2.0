@@ -1,4 +1,4 @@
-import resume from "../assets/William-Cody-Resume.pdf"
+import resume from "../assets/my-resume"
 
 
 function Resume() {
